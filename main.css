@@ -31,3 +31,11 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+@media (min-width: 600px) {
+  .author {
+  font-family: 'Crimson Text', serif;
+  font-size: 0.5rem;
+  font-style: italic;
+}
+}
