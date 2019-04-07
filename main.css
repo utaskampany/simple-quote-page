@@ -32,7 +32,7 @@ body {
   font-style: italic;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   .author {
   font-family: 'Crimson Text', serif;
   font-size: 0.5rem;
